@@ -1,0 +1,5 @@
+# NeuroSymForge · 锁定依赖清单（纯 numpy 栈，零 torch、零编译、零联网下载）
+# 平台：Windows 11 / win_amd64，Python 3.13
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
